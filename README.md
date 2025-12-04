@@ -1,8 +1,8 @@
 Breast Cancer Detection Model --- ENGG 680 Final Project
 
 Innocent Chrisantus 30240521
-Ofeoritse Ebosa 30296725
 Ramesh Adhikari 30293654
+Ofeoritse Ebosa 30296725
 Adam Anastas 30090437
 
 
